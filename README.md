@@ -40,14 +40,16 @@ This repository demonstrates practical implementation of concepts and is intende
 
 ## Project Structure
 
-Why This Repository?
+---
 
-Strengthen fundamentals of Data Science & Machine Learning
-Practice with real datasets
-Build a recruiter-friendly GitHub portfolio
-Prepare for Data Analyst / Data Scientist / ML roles
+## Why This Repository?
 
-Status
+- Strengthen fundamentals of Data Science & Machine Learning
+- Practice with real datasets
+- Build a recruiter-friendly GitHub portfolio
+- Prepare for Data Analyst / Data Scientist / ML roles
+
+## Status
 
 ✅ Actively maintained
 📌 New notebooks and improvements added regularly
