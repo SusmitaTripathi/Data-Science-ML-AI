@@ -58,7 +58,9 @@ If you haven't configured ssh keys, use the HTTPS option.
 ```bash
 git clone https://github.com/SusmitaTripathi/Data-Science-ML-AI.git
 ```
-
+```bash
+cd Data-Science-ML-AI
+```
 **SSH**
 ```bash
 git clone git@github.com:SusmitaTripathi/Data-Science-ML-AI.git
