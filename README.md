@@ -39,66 +39,68 @@ This repository demonstrates practical implementation of core concepts and is de
 ---
 
 ## Project Structure
-
+```text
 Python/
-│
 ├── Python1_Basics/
-│ ├── Python1_Basics.ipynb
-│ ├── Python2_Variables.ipynb
-│ ├── Python3_DataTypes.ipynb
-│ ├── Python4_Operators.ipynb
-│ └── Python5_Assignment.ipynb
+│   ├── Python1_Basics.ipynb
+│   ├── Python2_Variables.ipynb
+│   ├── Python3_DataTypes.ipynb
+│   ├── Python4_Operators.ipynb
+│   └── Python5_Assignment.ipynb
 │
 ├── Python2_ControlFlow/
-│ ├── CF1_ConditionalStatements.ipynb
-│ └── CF2_Loops.ipynb
+│   ├── CF1_ConditionalStatements.ipynb
+│   └── CF2_Loops.ipynb
 │
 ├── Python3_InbuiltDataStructures/
-│ ├── IDS1_Lists/
-│ │ └── List1.ipynb
-│ │
-│ ├── IDS2_Tuples/
-│ │ └── Tuple1.ipynb
-│ │
-│ ├── IDS3_Sets/
-│ │ └── Sets1.ipynb
-│ │
-│ └── IDS4_Dictionaries/
-│   └── Dictionaries1.ipynb
+│   ├── IDS1_Lists/
+│   │   ├── List1.ipynb
+│   │   ├── List2_Assignment.ipynb
+│   │   └── List3_PracticalApplications.ipynb
+│   │
+│   ├── IDS2_Tuples/
+│   │   └── Tuple1.ipynb
+│   │
+│   ├── IDS3_Sets/
+│   │   └── Sets1.ipynb
+│   │
+│   └── IDS4_Dictionaries/
+│       └── Dictionaries1.ipynb
 │
 ├── Python4_Functions/
-│ ├── Functions1.ipynb
-│ ├── Functions2_LambdaFunctions.ipynb
-│ ├── Functions3_MapFunction.ipynb
-│ └── Functions4_FilterFunction.ipynb
+│   ├── Functions1.ipynb
+│   ├── Functions2_LambdaFunctions.ipynb
+│   ├── Functions3_MapFunction.ipynb
+│   └── Functions4_FilterFunction.ipynb
 │
 ├── Python5_Packages/
-│ ├── package/
-│ │ ├── __ init__.py
-│ │ └── mathematics.py
-│ ├── example.csv
-│ └── Packages1.ipynb
+│   ├── package/
+│   │   ├── __init__.py
+│   │   └── mathematics.py
+│   ├── example.csv
+│   └── Packages1.ipynb
 │
 ├── Python6_FileHandling/
-│ ├── files/
-│ │ ├── destinationTxt.txt
-│ │ ├── exampleBinary.bin
-│ │ └── exampleTxt.txt
-│ └── FileHandling1.ipynb
+│   ├── files/
+│   │   ├── destinationTxt.txt
+│   │   ├── exampleBinary.bin
+│   │   └── exampleTxt.txt
+│   └── FileHandling1.ipynb
 │
 ├── Python7_ExceptionHandling/
-│ └── ExceptionHandling1.ipynb
+│   └── ExceptionHandling1.ipynb
 │
 ├── Python8_OOPSConcepts/
-│ ├── O1_ClassesObjects.ipynb
-│ ├── O2_Inheritance.ipynb
-│ ├── O3_Polymorphism.ipynb
-│ ├── O4_AccessModifiers.ipynb
-│ ├── O5_Encapsulation.ipynb
-│ └── O6_Abstraction.ipynb
+│   ├── O1_ClassesObjects.ipynb
+│   ├── O2_Inheritance.ipynb
+│   ├── O3_Polymorphism.ipynb
+│   ├── O4_AccessModifiers.ipynb
+│   ├── O5_Encapsulation.ipynb
+│   └── O6_Abstraction.ipynb
 │
-└── README.md
+├── README.md
 └── requirements.txt
+```
 
 ---
 
