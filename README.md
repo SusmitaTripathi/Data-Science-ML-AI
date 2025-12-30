@@ -55,8 +55,6 @@ Python/
 ├── Python3_InbuiltDataStructures/
 │   ├── IDS1_Lists/
 │   │   ├── List1.ipynb
-│   │   ├── List2_Assignment.ipynb
-│   │   └── List3_PracticalApplications.ipynb
 │   │
 │   ├── IDS2_Tuples/
 │   │   └── Tuple1.ipynb
